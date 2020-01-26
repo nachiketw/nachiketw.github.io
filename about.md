@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm currently studying Aeronautical & Astronautical Engineering at Purdue University. My hobbies include producing electronic music and financial modeling.
 
-### More Information
+I'm passionate about entrepreneurship, and about rapid R&D that pushes the cutting edge.
 
-A place to include any other types of information that you'd like to include about yourself.
+### What you'll find here
 
-### Contact me
+I'm a curious person, and I like to explore ideas. This blog is an attempt to document those explorations on 'paper', which will help me engage with them on a deeper level. 
 
-[email@domain.com](mailto:email@domain.com)
+### Connect
+
+Feel free to reach out through [email](mailto:nachiketmohan10@gmail.com). I'll try my best to reply as soon as I can.
